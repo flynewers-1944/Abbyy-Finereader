@@ -222,4 +222,4 @@ ABBYY FineReader is available as the full free version with all features and upd
 Don't miss out on the opportunity to enhance your document management. Download **ABBYY FineReader** today and experience the ease of transforming your documents into editable formats!
 
 ---
-**Last updated:** 2026-09-16 03:31:03 UTC
+**Last updated:** 2026-09-16 09:05:49 UTC
